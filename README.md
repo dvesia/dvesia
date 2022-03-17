@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Domenico
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and its Data Science libraries 
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 🌱 I’m currently working as Data Scientist at Bip-Xtech 
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me: domenico.vesia@gmail.com
 
