@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Domenico
-- 👀 I’m interested in Machine Learning and Deep Learning
+- 👀 I’m interested in MLOps
 - 🌱 I’m currently working as Data Scientist at Bip-Xtech 
 - 💞️ I’m looking to collaborate on Data Science project
 - 📫 How to reach me: domenico.vesia@gmail.com
